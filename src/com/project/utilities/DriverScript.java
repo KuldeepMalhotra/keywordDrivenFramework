@@ -1,4 +1,4 @@
-package keywordDrivenFramework;
+package com.project.utilities;
 
 import org.apache.logging.log4j.*;
 

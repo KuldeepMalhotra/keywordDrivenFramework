@@ -1,4 +1,4 @@
-package keywordDrivenFramework;
+package com.project.utilities;
 
 import java.time.Duration;
 
